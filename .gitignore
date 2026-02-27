@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+# Build output
+.next/
+# Local env file
+.env
+# Logs
+logs/
+*.log
+# Runtime Data
+pids/
+*.pid
+*.seed
+# Coverage directory used by tools like istanbul
+coverage/
+# Dependency directory
+jspm_packages/
+# Optional npm cache directory
+.npm/
+# Next.js
+.next/
+out/
